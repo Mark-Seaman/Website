@@ -1,8 +1,9 @@
 spec:
-  name: sample-html
+  name: Website
   static_sites:
   - environment_slug: html
     git:
       branch: main
-      repo_clone_url: https://github.com/digitalocean/sample-html.git
-    name: sample-html
+      repo_clone_url: https://github.com/Mark-Seaman/Website.git
+    name: Website
+
